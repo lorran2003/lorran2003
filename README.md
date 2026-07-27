@@ -1,10 +1,12 @@
 # Lorran de Lima Lazarini
 
-**Desenvolvedor Front-end Júnior | React.js, Next.js e TypeScript**
+**Desenvolvedor Full-Stack Júnior | React.js • Next.js • Node.js • Python**
 
-Sou desenvolvedor front-end do Rio de Janeiro, formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Trabalho com interfaces responsivas, componentização, integração com APIs REST, formulários, performance, acessibilidade e deploy de aplicações web.
+Sou Desenvolvedor Full-Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e atualmente cursando pós-graduação em Desenvolvimento Back-end pela Anhanguera.
 
-Atualmente desenvolvo projetos pessoais e freelancers com foco em React.js, Next.js, TypeScript e Tailwind CSS. Também estudo e aplico IA/LLMs como apoio à prototipação, pesquisa técnica e melhoria do fluxo de desenvolvimento.
+Desenvolvo aplicações web desde o levantamento de requisitos até a implantação em produção. Trabalho no desenvolvimento de interfaces modernas utilizando React.js, Next.js e TypeScript, além da construção de APIs REST com Node.js, Express e Python (Flask), integradas a bancos de dados relacionais e serviços como Supabase.
+
+Atualmente desenvolvo projetos comerciais e pessoais, aplicando boas práticas de arquitetura, testes unitários e de integração, versionamento com Git/GitHub e deploy em plataformas como Vercel e Netlify.
 
 <p align="left">
   <a href="mailto:lorran23082003@gmail.com">
@@ -22,11 +24,10 @@ Atualmente desenvolvo projetos pessoais e freelancers com foco em React.js, Next
 
 ## Foco atual
 
-- Desenvolvimento front-end com React.js, Next.js, TypeScript e Tailwind CSS.
-- Criação de websites institucionais, landing pages, vitrines comerciais e interfaces responsivas.
-- Integração com APIs REST, formulários, validação, estados de loading/error e serviços externos.
-- Boas práticas de acessibilidade, SEO técnico, performance web, Git/GitHub e deploy em Vercel/Netlify.
-- Estudos em IA aplicada: Prompt Engineering, Prompt Chaining, Prompt Templates, OpenAI API, Anthropic API, streaming de respostas, gestão de tokens e conceitos de RAG.
+- Desenvolvimento de aplicações Full-Stack com React.js, Next.js, Node.js, Express, Python (Flask) e TypeScript.
+- Construção de APIs REST, integração com bancos de dados relacionais e serviços como Supabase.
+- Desenvolvimento de interfaces modernas, responsivas e acessíveis utilizando React.js, Next.js e Tailwind CSS.
+- Aplicação de testes, versionamento com Git/GitHub e deploy em Vercel e Netlify.
 
 ---
 
@@ -43,41 +44,53 @@ Atualmente desenvolvo projetos pessoais e freelancers com foco em React.js, Next
   <img alt="Next.js" title="Next.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img alt="Tailwind CSS" title="Tailwind CSS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Vite" title="Vite" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img alt="React Router" title="React Router" style="background-color: #fff; border-radius: 5px;" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+
 </p>
 
-### Complementares
+### Back-end
 
 <p align="left">
-  <img alt="React Native" title="React Native" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Node.js" title="Node.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" title="Express" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="Express" style="background-color: #fff; border-radius: 5px;" title="Express" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
   <img alt="Git" title="Git" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="MySQL" title="MySQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="SQLite" title="SQLite" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img alt="Java" title="Java" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Flask" title="Flask" width="36" style="background-color: #fff; border-radius: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img alt="Nest.js" title="Nest.js" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+          
 </p>
 
----
+### Mobile
+
+<p align="left">
+<img alt="React Native" title="React Native" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg"/>
+<img alt="Expo" title="Expo" width="36" style="background-color: #fff;border-radius: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" />          
+</p>
+
+##
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Stack | Links |
-| --- | --- | --- | --- |
-| CriaLab Produtora | Aplicação institucional com foco em apresentação de marca, navegação visual e seções componentizadas. | Next.js, React, TypeScript, Tailwind CSS, Motion, Spline | [Deploy](https://www.crialab.pro/) |
-| RD Churrasco | Website institucional com foco em captação de orçamentos, conteúdo dinâmico e integração externa. | Next.js, React, TypeScript, Tailwind CSS, APIs | [Deploy](https://rd-churrasco-dev.vercel.app/) |
-| Elo Contabilidade | Interface institucional com foco em performance, acessibilidade, SEO e conversão. | Next.js, React, TypeScript, Tailwind CSS, Radix UI | [Deploy](https://elo-contabilidade-dev.vercel.app/) |
-| Catálogo de Roupas | SPA para vitrine comercial com navegação, modais e seleção de produtos. | Vite, React, TypeScript, Tailwind CSS | [Deploy](https://gallery2025.netlify.app/) · [Repo](https://github.com/lorran2003/catalogo-felicitta-fashion) |
-| Plataforma de Kits de Festas | Interface de e-commerce responsiva com carrosséis, feedbacks de UI e componentes reutilizáveis. | React, TypeScript, Tailwind CSS, Radix Themes | [Deploy](https://kitfesta.netlify.app/) · [Repo](https://github.com/lorran2003/kit_festa) |
-| App Mobile E-commerce | Aplicativo cross-platform com navegação mobile, armazenamento seguro e notificações. | Expo, React Native, TypeScript, Expo Router | [Repo](https://github.com/lorran2003/mobile_Estacio) |
+| Projeto                      | Descrição                                                                                             | Stack                                                    | Links                                                                                                         |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| CriaLab Produtora            | Aplicação institucional com foco em apresentação de marca, navegação visual e seções componentizadas. | Next.js, React, TypeScript, Tailwind CSS, Motion, Spline | [Deploy](https://www.crialab.pro/)                                                                            |
+| RD Churrasco                 | Website institucional com foco em captação de orçamentos, conteúdo dinâmico e integração externa.     | Next.js, React, TypeScript, Tailwind CSS, APIs           | [Deploy](https://rd-churrasco-dev.vercel.app/)                                                                |
+| Elo Contabilidade            | Interface institucional com foco em performance, acessibilidade, SEO e conversão.                     | Next.js, React, TypeScript, Tailwind CSS, Radix UI       | [Deploy](https://elo-contabilidade-dev.vercel.app/)                                                           |
+| Catálogo de Roupas           | SPA para vitrine comercial com navegação, modais e seleção de produtos.                               | Vite, React, TypeScript, Tailwind CSS                    | [Deploy](https://gallery2025.netlify.app/) · [Repo](https://github.com/lorran2003/catalogo-felicitta-fashion) |
+| Plataforma de Kits de Festas | Interface de e-commerce responsiva com carrosséis, feedbacks de UI e componentes reutilizáveis.       | React, TypeScript, Tailwind CSS, Radix Themes            | [Deploy](https://kitfesta.netlify.app/) · [Repo](https://github.com/lorran2003/kit_festa)                     |
+| App Mobile E-commerce        | Aplicativo cross-platform com navegação mobile, armazenamento seguro e notificações.                  | Expo, React Native, TypeScript, Expo Router              | [Repo](https://github.com/lorran2003/mobile_Estacio)                                                          |
 
 ---
 
 ## Em evolução
 
-- Aprofundando testes com Jest, Vitest e boas práticas de qualidade.
-- Melhorando projetos com acessibilidade, SEO técnico e performance web.
-- Estudando integração de APIs de LLMs, streaming de respostas, gestão de tokens e conceitos de RAG.
+- Arquitetura de Software, com foco em princípios de projeto, organização de sistemas e boas práticas de desenvolvimento.
+- Modelagem de software utilizando UML para documentação, análise e comunicação de requisitos.
+- Testes unitários e de integração com Jest e Vitest, aplicando boas práticas de qualidade e confiabilidade de software.
+- Padrões de projeto (Design Patterns) e princípios SOLID para construção de aplicações escaláveis e de fácil manutenção.
 
 ---
 
