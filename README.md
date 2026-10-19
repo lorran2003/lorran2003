@@ -1,12 +1,10 @@
-# Lorran de Lima Lazarini
+**Hi, I'm Lorran Lazarini!** 👋
 
-**Desenvolvedor Full-Stack Júnior | React.js • Next.js • Node.js • Python**
+Sou apaixonado por tecnologia e encontrei no desenvolvimento de software a união entre dois mundos que me fascinam: a possibilidade de criar e o poder de transformar ideias em realidade.
 
-Sou Desenvolvedor Full-Stack Júnior, formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e atualmente cursando pós-graduação em Desenvolvimento Back-end pela Anhanguera.
+Para mim, programar vai muito além de escrever código. É compreender problemas, explorar possibilidades, encontrar soluções e construir aplicações que gerem valor e façam a diferença na vida das pessoas.
 
-Desenvolvo aplicações web desde o levantamento de requisitos até a implantação em produção. Trabalho no desenvolvimento de interfaces modernas utilizando React.js, Next.js e TypeScript, além da construção de APIs REST com Node.js, Express e Python (Flask), integradas a bancos de dados relacionais e serviços como Supabase.
-
-Atualmente desenvolvo projetos comerciais e pessoais, aplicando boas práticas de arquitetura, testes unitários e de integração, versionamento com Git/GitHub e deploy em plataformas como Vercel e Netlify.
+Eu amo estar sempre buscando novos conhecimentos, aprimorando minhas habilidades e colocando o que aprendo em prática, transformando ideias em projetos reais e desafios em oportunidades de aprendizado.
 
 <p align="left">
   <a href="mailto:lorran23082003@gmail.com">
@@ -22,7 +20,7 @@ Atualmente desenvolvo projetos comerciais e pessoais, aplicando boas práticas d
 
 ---
 
-## Foco atual
+## Minhas competências 
 
 - Desenvolvimento de aplicações Full-Stack com React.js, Next.js, Node.js, Express, Python (Flask) e TypeScript.
 - Construção de APIs REST, integração com bancos de dados relacionais e serviços como Supabase.
